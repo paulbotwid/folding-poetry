@@ -1,0 +1,6 @@
+RewriteEngine On
+
+ #If the host is "sub.domain.com"
+ RewriteCond %{HTTP_HOST} ^foldingpoetry.makesmefeel.com$ [NC]
+ #Then rewrite any request to /folder
+ RewriteRule ^((?!folder).*)$ /folder/$1 [NC,L]
