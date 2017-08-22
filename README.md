@@ -24,13 +24,13 @@ This project is written in PHP and thus requires a local server to be able to ru
    if(! $connection ) {
      	die('Could not connect: ' . mysqli_error());
    } else {
-   		mysqli_set_charset($connection,"utf8");
+   	mysqli_set_charset($connection,"utf8");
    }
 ?>
 ```
 5. Exchange the names in **CAPITAL LETTERS** for the ones corresponding to your MySQL database setup.
 
-6. Launch the site from your local server (will probably be something like localhost:8888/folding-poetry).
+6. Launch the site from your local server (will probably be something like localhost:8888/folding-poetry/public/index.php).
 
 ——
 
