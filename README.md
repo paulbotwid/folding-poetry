@@ -13,7 +13,7 @@ This project is written in PHP and thus requires a local server to be able to ru
 3. Import the database tables from the SQL file included in the project folder. This will set up the tables and fill them with some test content.
 4. In the includes folder, create a file named db.php and enter the following code:
 
-´´´php
+´´´
 <?php
    $dbhost = 'HOST NAME';
    $dbuser = 'DATABASE USERNAME';
@@ -27,5 +27,5 @@ This project is written in PHP and thus requires a local server to be able to ru
    		mysqli_set_charset($connection,"utf8");
    }
 ?>
-´´´
+´´
 
