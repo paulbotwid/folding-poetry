@@ -14,7 +14,6 @@ This project is written in PHP and thus requires a local server to be able to ru
 4. In the includes folder, create a file named db.php and enter the following code:
 
 ```PHP
-
 <?php
    $dbhost = 'HOST NAME';
    $dbuser = 'DATABASE USERNAME';
@@ -28,7 +27,7 @@ This project is written in PHP and thus requires a local server to be able to ru
    		mysqli_set_charset($connection,"utf8");
    }
 ?>
-
 ```
+Exchange the names in CAPITAL letters for the ones corresponding to your MySQL database setup.
 
 
