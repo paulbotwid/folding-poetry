@@ -11,7 +11,7 @@ This project is written in PHP and thus requires a local server to be able to ru
 1. Use something like [MAMP](https://www.mamp.info/en/downloads/#mac) for mac to set up a local apache server. 
 2. **Set up a MySQL database named folding_poetry**
 3. **Import the database tables** from the SQL file included in the project folder. This will set up the tables and fill them with some test content.
-4. In the includes folder, create a file named db.php and enter the following code:
+4. In the includes folder, **create a file named db.php** and enter the following code:
 
 ```PHP
 <?php
