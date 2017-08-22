@@ -28,10 +28,11 @@ This project is written in PHP and thus requires a local server to be able to ru
    }
 ?>
 ```
-Exchange the names in **CAPITAL LETTERS** for the ones corresponding to your MySQL database setup.
+5. Exchange the names in **CAPITAL LETTERS** for the ones corresponding to your MySQL database setup.
 
-Launch the site from your local server (will probably be something like localhost:8888/folding-poetry).
+6. Launch the site from your local server (will probably be something like localhost:8888/folding-poetry).
 
+——
 
 Thanks for taking interest and hope you want to contribute! Also, I'm quite new to github so any tips on how to make this project more accesible is very welcome, thanks!
 
