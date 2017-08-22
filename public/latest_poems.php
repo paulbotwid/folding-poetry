@@ -1,6 +1,6 @@
 <?php
 // Print poems
-$r = get_full_poems("15");
+$r = get_full_poems("20");
 while ( $row = mysqli_fetch_assoc($r) ) { ?>
 	<div class="poem-wrap section fp-auto-height" style="background-color: <?php echo $row["bg_color"]; ?>;">
 		<a  class="poem-link" href="single_poem.php?fp_id=<?php echo $row["id"]; ?>">
