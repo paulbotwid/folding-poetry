@@ -34,7 +34,7 @@ This project is written in PHP and thus requires a local server to be able to ru
 
 ——
 
-Thanks for taking interest and hope you want to contribute! Also, I'm quite new to github so any tips on how to make this project more accessible is very welcome, thanks!
+Thanks for taking interest and hope you want to contribute! Also, I'm quite new to github so any tips on how to make this project more accessible for collaborators are very welcome, thanks!
 
 Best, 
 Paul
