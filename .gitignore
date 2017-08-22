@@ -3,3 +3,5 @@ includes/db.php
 .DS_Store
 *.sublime-project
 *.sublime-workspace
+*.codekit
+public/.sass-cache/c0f62d7e980afd6591eac08d3ab5d1c4b62cf3b0/style.scssc

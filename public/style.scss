@@ -103,6 +103,10 @@ a:hover {
 	font-size: 0.8em;
 	color: $grey;
 }
+#my-email:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+}
+
 input:focus,
 select:focus,
 textarea:focus,

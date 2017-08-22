@@ -18,11 +18,10 @@
       ——
       <br><br>
       <span id="about-footer">
-        This site is still a work in progress, as you might have noticed.
-        Want to contribute? Please
-        <a id="my-email" data-name="hello" data-domain="foldingpoetry" data-tld="com" href="#" class="cryptedmail" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld">
-          write!
-        </a>
+        This site is still a work in progress.
+        Want to contribute? Check out the 
+        <a href="https://github.com/paulbotwid/folding-poetry" target="_blank">Github repo</a> or write me at
+        <a id="my-email" data-name="hello" data-domain="foldingpoetry" data-tld="com" href="#" class="cryptedmail" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>
       </span>
     </p>
   </div>
