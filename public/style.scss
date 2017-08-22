@@ -10,8 +10,6 @@ $small: 10px;
 $med: 20px;
 $big: 30px;
 
-// Mixins
-// @import 'sass/paralax.scss';
 
 @mixin transition($type, $time) {
 	-webkit-transition: $type $time;
