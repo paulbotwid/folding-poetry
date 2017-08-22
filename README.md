@@ -27,5 +27,6 @@ This project is written in PHP and thus requires a local server to be able to ru
    		mysqli_set_charset($connection,"utf8");
    }
 ?>
-´´
+´´´
+
 
