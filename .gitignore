@@ -1,3 +1,4 @@
 
 includes/db.php
 .DS_Store
+*.sublime-project
